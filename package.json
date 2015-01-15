@@ -1,0 +1,25 @@
+{
+  "name": "buttery-scroll",
+  "version": "1.0.0",
+  "description": "_Essentially a heavy fork of [Benjamin De Cock](https://twitter.com/bdc)'s [Anchor scrolling library](https://github.com/bendc/anchor-scroll)_",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iest/buttery-scroll.git"
+  },
+  "keywords": [
+    "\"scroll\"",
+    "\"butter\"",
+    "\"smooth\"",
+    "\"scrolling\""
+  ],
+  "author": "Iestyn Williams",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iest/buttery-scroll/issues"
+  },
+  "homepage": "https://github.com/iest/buttery-scroll"
+}
