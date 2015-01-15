@@ -1,7 +1,7 @@
 {
   "name": "buttery-scroll",
-  "version": "1.0.0",
-  "description": "_Essentially a heavy fork of [Benjamin De Cock](https://twitter.com/bdc)'s [Anchor scrolling library](https://github.com/bendc/anchor-scroll)_",
+  "version": "1.0.1",
+  "description": "Uber-simple smooth-scrolling microlib",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
